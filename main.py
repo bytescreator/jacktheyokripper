@@ -75,7 +75,7 @@ if __name__ == "__main__":
             'Ana Program Kodu',
             'Program Kodu',
             'Bölüm Adı',
-            'Fakülte'
+            'Fakülte',
             'Üniversite',
             'İl',
             'Puan 2021',

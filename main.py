@@ -1,5 +1,3 @@
-from base64 import encode
-from urllib.parse import quote_plus
 import requests
 import sys
 from bs4 import BeautifulSoup

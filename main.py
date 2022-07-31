@@ -82,7 +82,7 @@ if __name__ == "__main__":
             'Başarı Sırası 2021',
             'Puan 2020',
             'Başarı Sırası 2020',
-            'Puan 2019'
+            'Puan 2019',
             'Başarı Sırası 2019',
             'Akreditasyon',
             'Adres'
